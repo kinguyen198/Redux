@@ -1,0 +1,6 @@
+module Pods_HelloRedux {
+  umbrella header "Pods-HelloRedux-umbrella.h"
+
+  export *
+  module * { export * }
+}

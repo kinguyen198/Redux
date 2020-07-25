@@ -1,0 +1,6 @@
+module Pods_HelloRedux_HelloReduxTests {
+  umbrella header "Pods-HelloRedux-HelloReduxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
